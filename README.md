@@ -2,6 +2,14 @@
 
 - [ ] Replace [my stars](https://github.com/hezhizhen?tab=stars) with this repository
 
+## BuildKit
+
+1. [moby/buildkit](https://github.com/moby/buildkit)
+2. [buildkitd.toml](https://github.com/moby/buildkit/blob/master/docs/buildkitd.toml.md)
+3. [Kubernetes manifests for BuildKit](https://github.com/moby/buildkit/tree/master/examples/kubernetes)
+4. [buildkit: 用法介绍](https://flyer103.com/2022/08/20220806-buildkitd-usage/)
+5. [Building Docker Images with BuildKit](https://kubernetes.courselabs.co/labs/buildkit/)
+
 ## Logseq
 
 1. [Logseq](https://github.com/logseq/logseq)
